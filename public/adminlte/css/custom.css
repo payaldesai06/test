@@ -1,0 +1,20 @@
+
+.label {margin-right:5px;margin-bottom:5px !important;display:inline-block;} #wrapper {
+    position: relative;
+}
+.w-100{width:100%;}
+.removeMedia{margin-top: 7px;}
+.locationmediabox{border-bottom: 1px #c2c2c2 solid; margin-bottom: 10px;}
+.locationmediabox label{margin: 10px;}
+.postimg{margin-top: 20px;}
+.postimg video{vertical-align:bottom;}
+
+a[href^="http://maps.google.com/maps"]{display:none !important}
+a[href^="https://maps.google.com/maps"]{display:none !important}
+
+.gmnoprint a, .gmnoprint span, .gm-style-cc {
+    display:none;
+}
+/* .gmnoprint div {
+    background:none !important;
+} */
